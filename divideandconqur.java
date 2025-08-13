@@ -58,6 +58,6 @@ public class divideandconqur {
     public static void main(String[] args) {
         int arr[] = {6,3,9,5,2,8};
         mergSort(arr, 0, arr.length-1); //fuction call
-        printArr(arr);
+        printArr(arr); //print the array
     }
 }
